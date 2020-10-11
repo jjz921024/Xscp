@@ -38,7 +38,7 @@
 
 将在每台机器上执行`ls /home`命令，再将输出返回到本地，结果如下图所示
 
-<img src="demo.png" style="zoom:80%;" align="left" />
+<img src="https://raw.githubusercontent.com/jjz921024/Xscp/master/demo.png" style="zoom:80%;" align="left"/>
 
 ## 注意事项
 
